@@ -58,8 +58,8 @@
 ![image](https://github.com/ATHMAJ03/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118753139/d4cc5e7d-2d7f-4570-8c41-21618716f196)
 
 
-### Name:ATHMAJ VENUGOPAL
-### Register Number: 212222240014
+### Name: MAHESH RAJ PUROHIT 
+### Register Number: 212222240058
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
